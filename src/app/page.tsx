@@ -3,6 +3,8 @@ import { ContactDrawer } from "@/components/contact-drawer";
 import { Button } from "@/components/ui/button";
 
 // Image asset constants - now using local assets
+// these were imported from the figma design to the public/portfolio-assets folder
+// all done via MCP server
 const imgClientImage = "/portfolio-assets/client-image.png";
 const img = "/portfolio-assets/gallery-1.png";
 const img1 = "/portfolio-assets/gallery-2.png";
